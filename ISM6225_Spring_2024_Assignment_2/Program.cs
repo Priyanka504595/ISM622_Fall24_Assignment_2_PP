@@ -7,7 +7,7 @@ namespace Assignment_2
     {
         static void Main(string[] args)
         {
-            // Question 1: Find Missing Numbers in Array
+            // Changed Question 1: Find Missing Numbers in Array
             Console.WriteLine("Question 1:");
             int[] nums1 = { 4, 3, 2, 7, 8, 2, 3, 1 };
             IList<int> missingNumbers = FindMissingNumbers(nums1);
